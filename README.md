@@ -1,9 +1,9 @@
 軟體工程筆記 WEEK2(0922)
 ===
-:::info
+
 CH1後半段內容
 
-:::
+
 
 Software process Activies 
 ---
